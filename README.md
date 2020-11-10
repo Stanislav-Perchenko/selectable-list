@@ -1,6 +1,6 @@
 # selectable_list
 
-A first codelab application. List of random words with selection and navigation to favorites
+A first codelab application (modified). List of random words with selection and navigation to favorites
 
 ## Getting Started
 
